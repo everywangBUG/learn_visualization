@@ -1,1 +1,2 @@
-Create new Branch is quick!
+this is git branch menagemennt!
+Creating a new Branch in featurel
