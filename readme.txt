@@ -7,3 +7,5 @@ Creating a new Branch AMD!
 This is git Featurel Branch!
 
 merge conflict is resolved!
+
+git --no--ff 禁用Fast forward模式分支合并
